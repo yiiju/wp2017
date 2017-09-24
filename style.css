@@ -1,3 +1,18 @@
 body{
   background-image: url("https://i.imgur.com/1qV7gEC.jpg");
 }
+h1{
+  text-align: center;
+  color: lightgrey;
+  text-transform: uppercase;
+  line-height: 2;
+  word-spacing: 5px;
+  font-family: "Times New Roman";
+  line-height: 1;
+}
+h2{
+  text-align: center;
+  color: pink;
+  font-family: "Arial";
+  line-height: 0.1;
+}
