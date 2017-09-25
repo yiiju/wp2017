@@ -2,17 +2,55 @@ body{
   background-image: url("https://i.imgur.com/1qV7gEC.jpg");
 }
 h1{
-  text-align: center;
-  color: lightgrey;
-  text-transform: uppercase;
-  line-height: 2;
-  word-spacing: 5px;
-  font-family: "Times New Roman";
-  line-height: 1;
+  color: pink;
+  font-family: "hanamin";
+  line-height: 0.1;
+  font-size: 200pt; 
 }
 h2{
-  text-align: center;
+  color: lightgrey;
+  font-family: "Comic Sans MS";
+  line-height: 0.01;
+  font-size: 50pt; 
+  letter-spacing: 5px;
+}
+h3{
   color: pink;
-  font-family: "Arial";
+  font-family: "hanamin";
   line-height: 0.1;
+  font-size: 90pt; 
+  letter-spacing: 20px;
+}
+.ch{
+  font-size:20vh;
+  text-align: left;
+}
+.en{
+  font-family: "verdana";
+  font-size:10vh;
+  text-align: left;
+  letter-spacing: 2px;
+}
+.space{
+  line-height: 2vw;
+}
+#first_name{
+  width:15vw;
+  height: 100vh;
+  float: left;
+  margin-left: 30px;
+}
+#last_name{
+  width:71vw;
+  height: 100vh;
+  float: right;
+  margin-top: 80px;
+}
+#content{
+  color: #CCCCFF;
+  width:˙70vw;
+  height: 100vh;
+  float: left;
+  margin-left: 100px;
+  margin-top: 150px;
 }
