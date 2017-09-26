@@ -11,6 +11,8 @@ h2{
   font-family: "Comic Sans MS";
   line-height: 0.5;
   font-size: 50pt; 
+  margin-top: 0.01em;
+  margin-bottom: 1.5em;
   letter-spacing: 5px;
 }
 a{
@@ -20,10 +22,13 @@ section{
   margin-bottom: 30px;
 }
 .hung{
-  font-size: 200pt; 
+  font-size: 200pt;
+  margin-top: 0.6em;
+  margin-bottom: 0.01em;
 }
 .ichu{
-  font-size: 90pt; 
+  font-size: 90pt;
+  margin-bottom: 0.01em; 
   letter-spacing: 20px;
 }
 .ch{
@@ -56,7 +61,6 @@ section{
   width: 100vw;
   height: 10vh;
   float: left;
-  margin-left: 330px;
-  margin-bottom: 50px;
+  margin-left: 100px;
   line-height: 0.5vw;
 }
