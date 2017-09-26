@@ -24,12 +24,12 @@ a{
   letter-spacing: 20px;
 }
 .ch{
-  font-size:10vh;
+  font-size:8vh;
   text-align: left;
 }
 .en{
   font-family: "verdana";
-  font-size:10vh;
+  font-size:5vh;
   text-align: left;
   letter-spacing: 2px;
 }
@@ -54,7 +54,7 @@ a{
   height: 10vh;
   float: left;
   margin-left: 100px;
-  margin-top: 100px;
+  margin-top: 10px;
   margin-bottom: 50px;
   line-height: 0.5vw;
 }
