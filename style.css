@@ -16,6 +16,10 @@ h2{
 a{
   color: #9393FF;
 }
+section{
+  margin-top: 70px;
+  margin-bottom: 30px;
+}
 .hung{
   font-size: 200pt; 
 }
