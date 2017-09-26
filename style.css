@@ -24,12 +24,12 @@ a{
   letter-spacing: 20px;
 }
 .ch{
-  font-size:8vh;
+  font-size:6vh;
   text-align: left;
 }
 .en{
   font-family: "verdana";
-  font-size:5vh;
+  font-size:4vh;
   text-align: left;
   letter-spacing: 1px;
 }
@@ -43,7 +43,7 @@ a{
   margin-left: 30px;
 }
 #last_name{
-  width:71vw;
+  width:74vw;
   height: 100vh;
   float: right;
   margin-top: 110px;
