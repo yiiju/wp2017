@@ -1,5 +1,6 @@
 body{
   background-image: url("https://i.imgur.com/1qV7gEC.jpg");
+  background-repeat: no-repeat;
 }
 a{
   color: #9393FF;
