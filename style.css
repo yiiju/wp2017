@@ -46,14 +46,14 @@ section{
   line-height: 0.1vw;
 }
 #first_name{
-  width:15vw;
-  height: 50vh;
+  width: 15vw;
+  height: 40vh;
   float: left;
   margin-left: 30px;
 }
 #last_name{
-  width:74vw;
-  height: 50vh;
+  width: 74vw;
+  height: 40vh;
   float: right;
   margin-top: 20px;
   margin-bottom: 20px;
