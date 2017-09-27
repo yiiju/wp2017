@@ -1,37 +1,38 @@
 body{
   background-image: url("https://i.imgur.com/1qV7gEC.jpg");
 }
-h1{
-  color: pink;
-  font-family: "hanamin";
-  line-height: 0.1;
-}
-h2{
-  color: lightgrey;
-  font-family: "Comic Sans MS";
-  line-height: 0.5;
-  font-size: 50pt; 
-  margin-top: 0.01em;
-  margin-bottom: 1.5em;
-  letter-spacing: 5px;
-}
 a{
   color: #9393FF;
 }
 section{
+  margin-top: 80px;
   margin-bottom: 30px;
 }
 .hung{
+  color: pink;
+  font-family: "hanamin";
+  line-height: 0.1;
+  margin-bottom: 30px;
   font-size: 200pt;
-  margin-top: 0.6em;
+  margin-top: 0.5em;
   margin-bottom: 0.01em;
 }
 .ichu{
+  color: pink;
+  font-family: "hanamin";
+  line-height: 0.1;
   font-size: 90pt;
-  margin-bottom: 0.01em; 
   letter-spacing: 20px;
 }
+.en_name{
+  color: lightgrey;
+  font-family: "Comic Sans MS";
+  line-height: 0.1;
+  font-size: 50pt;
+  letter-spacing: 5px;
+}
 .ch{
+  font-family: "hanamin";
   font-size:6vh;
   text-align: left;
 }
@@ -54,7 +55,8 @@ section{
   width:74vw;
   height: 100vh;
   float: right;
-  margin-top: 110px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 #content{
   color: #CCCCFF;
