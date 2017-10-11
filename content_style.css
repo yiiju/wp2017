@@ -1,77 +1,77 @@
 body{
-    background-size:cover;
-    background-image: url("https://i.imgur.com/t1ouOXI.png");
-    background-repeat: no-repeat;
-  }
-  #cross{
-    margin-left:1280px;
-  }
-  .title{
-    color: #FFFFFF;
-    font-family: "hanamin";
-    margin-top: 4vw;
-    font-size:5vh;
-    letter-spacing: 1vh;
-    -webkit-writing-mode:vertical-rl;
-    writing-mode:vertical-rl;
-    line-height: 23vw;
-    text-align: center;
-    text-transform: uppercase;
-  }
-  #title_site{
-    position:relative;
-    z-index:2;
-  }
-  .changebg_about{
-    background-image: url("https://i.imgur.com/YTYGsK5.png");
-  }
-  .changebg_life{
-    background-image: url("https://i.imgur.com/fiTthoI.png");
-  }
-  .changebg_interest{
-    background-image: url("https://i.imgur.com/uxiQoqA.png");
-  }
-  .changebg_contact{
-    background-image: url("https://i.imgur.com/9NBJOyq.png");
-  }
-  #in_about{
-    height:150px;
-    width:420px;
-    background-color:white;
-    opacity:0.8;
-    font-size:4vh;
-  }
-  .word{
-    color: #000000;
-    font-family: "hanamin";
-    text-align: justify;
-    line-height: 1.5;
-  }
-  #in_life{
-    height:210px;
-    width:300px;
-    margin-left:140px;
-    background-color:white;
-    opacity:0.8;
-    font-size:4vh;
-  }
-  a{
-    color:#666666;
-    text-decoration: none;
-  }
-  #in_interest{
-    height:130px;
-    width:530px;
-    margin-left:400px;
-    background-color:white;
-    opacity:0.8;
-    font-size:4vh;
-  }
-  #in_contact{
-    height:150px;
-    width:250px;
-    margin-left:585px;
-    background-color:white;
-    opacity:0.8;
-    font-size:4vh;
-  }
+  background-size:cover;
+  background-image: url("https://i.imgur.com/t1ouOXI.png");
+  background-repeat: no-repeat;
+}
+#cross{
+  margin-left:1280px;
+}
+.title{
+  color: #FFFFFF;
+  font-family: "hanamin";
+  margin-top: 4vw;
+  font-size:5vh;
+  letter-spacing: 1vh;
+  -webkit-writing-mode:vertical-rl;
+  writing-mode:vertical-rl;
+  line-height: 23vw;
+  text-align: center;
+  text-transform: uppercase;
+}
+#title_site{
+  position:relative;
+  z-index:2;
+}
+.changebg_about{
+  background-image: url("https://i.imgur.com/YTYGsK5.png");
+}
+.changebg_life{
+  background-image: url("https://i.imgur.com/fiTthoI.png");
+}
+.changebg_interest{
+  background-image: url("https://i.imgur.com/uxiQoqA.png");
+}
+.changebg_contact{
+  background-image: url("https://i.imgur.com/9NBJOyq.png");
+}
+#in_about{
+  height:170px;
+  width:460px;
+  background-color:white;
+  opacity:0.8;
+  font-size:4vh;
+}
+.word{
+  color: #000000;
+  font-family: "hanamin";
+  text-align: justify;
+  line-height: 1.5;
+}
+#in_life{
+  height:240px;
+  width:310px;
+  margin-left:140px;
+  background-color:white;
+  opacity:0.8;
+  font-size:4vh;
+}
+a{
+  color:#666666;
+  text-decoration: none;
+}
+#in_interest{
+  height:150px;
+  width:570px;
+  margin-left:400px;
+  background-color:white;
+  opacity:0.8;
+  font-size:4vh;
+}
+#in_contact{
+  height:180px;
+  width:250px;
+  margin-left:585px;
+  background-color:white;
+  opacity:0.8;
+  font-size:4vh;
+}
