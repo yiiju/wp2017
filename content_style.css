@@ -4,17 +4,19 @@ body{
   background-repeat: no-repeat;
 }
 #cross{
-  margin-left:1280px;
+  /*margin-left:1280px;*/
+  margin-left:95%;
 }
 .title{
   color: #FFFFFF;
   font-family: "hanamin";
-  margin-top: 4vw;
+  /*margin-top: 4vw;*/
+  margin-top:5%;
   font-size:5vh;
   letter-spacing: 1vh;
   -webkit-writing-mode:vertical-rl;
   writing-mode:vertical-rl;
-  line-height: 23vw;
+  line-height: 22vw;
   text-align: center;
   text-transform: uppercase;
 }
@@ -34,9 +36,12 @@ body{
 .changebg_contact{
   background-image: url("https://i.imgur.com/9NBJOyq.png");
 }
+.initialbg{
+  background-image: url("https://i.imgur.com/t1ouOXI.png");
+}
 #in_about{
-  height:170px;
-  width:460px;
+  height:30vh;
+  width:35vw;
   background-color:white;
   opacity:0.8;
   font-size:4vh;
@@ -48,9 +53,10 @@ body{
   line-height: 1.5;
 }
 #in_life{
-  height:240px;
-  width:310px;
-  margin-left:140px;
+  height:35vh;
+  width:25vw;
+  /*margin-left:140px;*/
+  margin-left:10.2%;
   background-color:white;
   opacity:0.8;
   font-size:4vh;
@@ -60,17 +66,19 @@ a{
   text-decoration: none;
 }
 #in_interest{
-  height:150px;
-  width:570px;
-  margin-left:400px;
+  height:25vh;
+  width:43vw;
+  /*margin-left:400px;*/
+  margin-left:29.5%;
   background-color:white;
   opacity:0.8;
   font-size:4vh;
 }
 #in_contact{
-  height:180px;
-  width:250px;
-  margin-left:585px;
+  height:25vh;
+  width:20vw;
+  /*margin-left:585px;*/
+  margin-left:43.5%;
   background-color:white;
   opacity:0.8;
   font-size:4vh;
