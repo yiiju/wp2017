@@ -66,7 +66,7 @@ $(document).ready(function(){
   $('#title_site').on('click','.contact',function(){
     $('body').toggleClass('changebg_contact');
     if($('body').hasClass('changebg_contact')){
-      $('div').find('#title_site').animate({left: '80%','line-height':'10vw'});
+      $('div').find('#title_site').animate({left: '85%','line-height':'10vw'});
       $("#in_contact").show();
       $("#in_about").hide();
       $("#in_life").hide();
